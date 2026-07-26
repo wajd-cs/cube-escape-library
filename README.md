@@ -4,10 +4,6 @@
 
 **An interactive escape-room style puzzle game built in C++ with OpenGL/GLUT — texture-mapped scenes, book puzzles, and a final code-lock challenge.**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
-
 </div>
 
 ---
@@ -87,4 +83,4 @@ flowchart TD
 Computer Science Student | Data Analysis & Software Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajd-al-luhaibi-9194a1396)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wajdalharbics@gmail.com)
+
